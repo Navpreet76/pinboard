@@ -13,6 +13,7 @@ gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 gem 'simple_form', '~> 3.3', '>= 3.3.1'
 gem 'devise', '~> 3.4'
 gem 'paperclip', '~> 5.1'
+gem 'masonry-rails', '~> 0.2.4'
 gem 'sdoc', '~> 0.4.0', group: :doc
 group :development, :test do
   gem 'byebug'
